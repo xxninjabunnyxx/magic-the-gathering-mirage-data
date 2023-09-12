@@ -1,0 +1,110 @@
+---
+object: card
+id: cc99ee76-45b6-4f1d-b0b0-7da8775ca90c
+oracle_id: 6225a704-430a-4f56-ad87-0e8d87f285f5
+multiverse_ids:
+- 3247
+mtgo_id: 6885
+mtgo_foil_id: 6886
+tcgplayer_id: 5020
+cardmarket_id: 8315
+name: Cursed Totem
+lang: en
+released_at: '1996-10-08'
+uri: https://api.scryfall.com/cards/cc99ee76-45b6-4f1d-b0b0-7da8775ca90c
+scryfall_uri: https://scryfall.com/card/mir/299/cursed-totem?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/c/c/cc99ee76-45b6-4f1d-b0b0-7da8775ca90c.jpg?1562721911
+  normal: https://cards.scryfall.io/normal/front/c/c/cc99ee76-45b6-4f1d-b0b0-7da8775ca90c.jpg?1562721911
+  large: https://cards.scryfall.io/large/front/c/c/cc99ee76-45b6-4f1d-b0b0-7da8775ca90c.jpg?1562721911
+  png: https://cards.scryfall.io/png/front/c/c/cc99ee76-45b6-4f1d-b0b0-7da8775ca90c.png?1562721911
+  art_crop: https://cards.scryfall.io/art_crop/front/c/c/cc99ee76-45b6-4f1d-b0b0-7da8775ca90c.jpg?1562721911
+  border_crop: https://cards.scryfall.io/border_crop/front/c/c/cc99ee76-45b6-4f1d-b0b0-7da8775ca90c.jpg?1562721911
+mana_cost: "{2}"
+cmc: 2.0
+type_line: Artifact
+oracle_text: Activated abilities of creatures can't be activated.
+colors: []
+color_identity: []
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 5f06acf3-8123-4a78-b2e7-089b0b775a4a
+set: mir
+set_name: Mirage
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/5f06acf3-8123-4a78-b2e7-089b0b775a4a
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Amir&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/mir?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/cc99ee76-45b6-4f1d-b0b0-7da8775ca90c/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A6225a704-430a-4f56-ad87-0e8d87f285f5&unique=prints
+collector_number: '299'
+digital: false
+rarity: rare
+flavor_text: |-
+  Pass me from soul to soul / soldier to herder, herder to beast, beast to soil / until I am everywhere. / Then pass me those souls.
+  —Totem inscription (translated)
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: D. Alexander Gregory
+artist_ids:
+- 38433e15-f0f5-4223-a985-2d13c4aa0922
+illustration_id: 21da8cd8-d59e-409c-acd2-cca9c3dea68d
+border_color: black
+frame: '1997'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 1641
+penny_rank: 7019
+prices:
+  usd: '3.69'
+  usd_foil: 
+  usd_etched: 
+  eur: '5.06'
+  eur_foil: 
+  tix: '0.56'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3247
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Cursed+Totem&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Cursed+Totem&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Cursed+Totem
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/5020?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Cursed+Totem&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/6885?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

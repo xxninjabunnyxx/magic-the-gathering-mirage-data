@@ -1,0 +1,113 @@
+---
+object: card
+id: e6b774d2-1272-4cd2-b5f8-dfe3ca6e41ee
+oracle_id: 0c3bf4e1-d91e-4dd3-a800-e40971222c71
+multiverse_ids:
+- 3464
+mtgo_id: 7329
+mtgo_foil_id: 7330
+tcgplayer_id: 5242
+cardmarket_id: 8244
+name: Spitting Earth
+lang: en
+released_at: '1996-10-08'
+uri: https://api.scryfall.com/cards/e6b774d2-1272-4cd2-b5f8-dfe3ca6e41ee
+scryfall_uri: https://scryfall.com/card/mir/193/spitting-earth?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/e/6/e6b774d2-1272-4cd2-b5f8-dfe3ca6e41ee.jpg?1592485294
+  normal: https://cards.scryfall.io/normal/front/e/6/e6b774d2-1272-4cd2-b5f8-dfe3ca6e41ee.jpg?1592485294
+  large: https://cards.scryfall.io/large/front/e/6/e6b774d2-1272-4cd2-b5f8-dfe3ca6e41ee.jpg?1592485294
+  png: https://cards.scryfall.io/png/front/e/6/e6b774d2-1272-4cd2-b5f8-dfe3ca6e41ee.png?1592485294
+  art_crop: https://cards.scryfall.io/art_crop/front/e/6/e6b774d2-1272-4cd2-b5f8-dfe3ca6e41ee.jpg?1592485294
+  border_crop: https://cards.scryfall.io/border_crop/front/e/6/e6b774d2-1272-4cd2-b5f8-dfe3ca6e41ee.jpg?1592485294
+mana_cost: "{1}{R}"
+cmc: 2.0
+type_line: Sorcery
+oracle_text: Spitting Earth deals damage to target creature equal to the number of
+  Mountains you control.
+colors:
+- R
+color_identity:
+- R
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: legal
+  gladiator: legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 5f06acf3-8123-4a78-b2e7-089b0b775a4a
+set: mir
+set_name: Mirage
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/5f06acf3-8123-4a78-b2e7-089b0b775a4a
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Amir&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/mir?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/e6b774d2-1272-4cd2-b5f8-dfe3ca6e41ee/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A0c3bf4e1-d91e-4dd3-a800-e40971222c71&unique=prints
+collector_number: '193'
+digital: false
+rarity: common
+flavor_text: |-
+  "There are times solid ground gives precious little comfort."
+  —Talibah, embermage
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Brian Snõddy
+artist_ids:
+- 770b4e16-de76-49ed-949f-84e6d2e06d25
+illustration_id: 811242c6-7e60-412f-8fcb-da403dea1dd1
+border_color: black
+frame: '1997'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 12614
+penny_rank: 11784
+prices:
+  usd: '0.09'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.10'
+  eur_foil: 
+  tix: '0.11'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3464
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Spitting+Earth&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Spitting+Earth&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Spitting+Earth
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/5242?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Spitting+Earth&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/7329?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

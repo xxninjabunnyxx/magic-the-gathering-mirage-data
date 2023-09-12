@@ -1,0 +1,20 @@
+---
+object: set
+id: 5f06acf3-8123-4a78-b2e7-089b0b775a4a
+code: mir
+mtgo_code: mi
+arena_code: mi
+tcgplayer_id: 74
+name: Mirage
+uri: https://api.scryfall.com/sets/5f06acf3-8123-4a78-b2e7-089b0b775a4a
+scryfall_uri: https://scryfall.com/sets/mir
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Amir&unique=prints
+released_at: '1996-10-08'
+set_type: expansion
+card_count: 352
+digital: false
+nonfoil_only: true
+foil_only: false
+block_code: mir
+block: Mirage
+icon_svg_uri: https://svgs.scryfall.io/sets/mir.svg?1694404800

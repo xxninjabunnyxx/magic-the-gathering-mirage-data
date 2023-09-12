@@ -1,0 +1,113 @@
+---
+object: card
+id: e41c15fb-01a1-446e-9e88-71e8e95d9bce
+oracle_id: 3bcb7436-f7d9-4bb0-81be-7a3db9d8329f
+multiverse_ids:
+- 3282
+mtgo_id: 6859
+mtgo_foil_id: 6860
+tcgplayer_id: 5007
+cardmarket_id: 8062
+name: Choking Sands
+lang: en
+released_at: '1996-10-08'
+uri: https://api.scryfall.com/cards/e41c15fb-01a1-446e-9e88-71e8e95d9bce
+scryfall_uri: https://scryfall.com/card/mir/113/choking-sands?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/e/4/e41c15fb-01a1-446e-9e88-71e8e95d9bce.jpg?1562722377
+  normal: https://cards.scryfall.io/normal/front/e/4/e41c15fb-01a1-446e-9e88-71e8e95d9bce.jpg?1562722377
+  large: https://cards.scryfall.io/large/front/e/4/e41c15fb-01a1-446e-9e88-71e8e95d9bce.jpg?1562722377
+  png: https://cards.scryfall.io/png/front/e/4/e41c15fb-01a1-446e-9e88-71e8e95d9bce.png?1562722377
+  art_crop: https://cards.scryfall.io/art_crop/front/e/4/e41c15fb-01a1-446e-9e88-71e8e95d9bce.jpg?1562722377
+  border_crop: https://cards.scryfall.io/border_crop/front/e/4/e41c15fb-01a1-446e-9e88-71e8e95d9bce.jpg?1562722377
+mana_cost: "{1}{B}{B}"
+cmc: 3.0
+type_line: Sorcery
+oracle_text: Destroy target non-Swamp land. If that land was nonbasic, Choking Sands
+  deals 2 damage to the land's controller.
+colors:
+- B
+color_identity:
+- B
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 5f06acf3-8123-4a78-b2e7-089b0b775a4a
+set: mir
+set_name: Mirage
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/5f06acf3-8123-4a78-b2e7-089b0b775a4a
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Amir&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/mir?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/e41c15fb-01a1-446e-9e88-71e8e95d9bce/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A3bcb7436-f7d9-4bb0-81be-7a3db9d8329f&unique=prints
+collector_number: '113'
+digital: false
+rarity: common
+flavor_text: |-
+  "The people wiped the sand from their eyes and cursed—and left the barren land to the hyenas and vipers."
+  —Afari, *Tales*
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Roger Raupp
+artist_ids:
+- 79d6f296-1948-4a24-a2ce-a76e89057f23
+illustration_id: 605bb78d-f36a-4fa6-98ec-04e084449e3f
+border_color: black
+frame: '1997'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 18111
+penny_rank: 2150
+prices:
+  usd: '0.35'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.35'
+  eur_foil: 
+  tix: '0.04'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3282
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Choking+Sands&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Choking+Sands&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Choking+Sands
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/5007?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Choking+Sands&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/6859?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
